@@ -1,1 +1,3 @@
 # gg-workshop
+
+Jericho Opsima
